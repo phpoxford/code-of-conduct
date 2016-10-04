@@ -12,6 +12,7 @@ The current organisers are:
 
 * Gareth Ellis ([@garethellis](https://twitter.com/garethellis))
 * Nils Luxton ([@nilsluxton](https://twitter.com/nilsluxton))
+* Dan McInerney ([@techgubbins](https://twitter.com/techgubbins))
 
 If you have a complaint that involves an organiser, you can contact one of the others in confidence. The group is the priority and steps will be taken to ensure the group is successful.
 
