@@ -11,7 +11,6 @@ You can contact the organisers at phpoxford@gmail.com, send a direct message to 
 The current organisers are:
 
 * Dan McInerney
-* Ghousia Hameed
 
 If you have a complaint that involves an organiser, you can contact one of the others in confidence. The group is the priority and steps will be taken to ensure the group is successful.
 
